@@ -6,8 +6,8 @@ Currently balancing pursuing my computer science degree and trying to learn as m
 - 🌱 I’m currently learning Solidity, Node.js, ML
 
 Projects I am currently working on: 
-EvansStutterBot - a bot that will hopefully be able to both detect and correct for stuttering given any audio input
-PiggyBank - a web app powered by a smart contract that allows users to store ETH for a specified amount of time
+Prototypr - A website to faciliate interaction and business between Machinists and people in want of their services. 
+Six Degrees of the Gorillaz - a website that will show the shortest collaboration path between the Gorillaz band and any other artist on spotify.
 
 <!---
 EvanSeven007/EvanSeven007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
