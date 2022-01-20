@@ -7,7 +7,7 @@ Currently balancing pursuing my computer science degree and trying to learn as m
 
 Projects I am currently working on: 
 Prototypr - A website to faciliate interaction and business between Machinists and people in want of their services. 
-Six Degrees of the Gorillaz - a website that will show the shortest collaboration path between the Gorillaz band and any other artist on spotify.
+Six Degrees of the Gorillaz - a website that will show the shortest collaboration path between the Gorillaz (my favorite artist) band and any other artist on spotify.
 
 <!---
 EvanSeven007/EvanSeven007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
