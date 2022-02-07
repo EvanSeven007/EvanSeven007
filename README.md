@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @EvanSeven007
 
-Currently balancing pursuing my computer science degree and trying to learn as much as I can about web3 development
-
-- 👀 I’m interested in ETH, NFTs, Smart Contracts, and ML
-- 🌱 I’m currently learning Solidity, Node.js, ML
+Currently pursuing a major in Computer Science at Rice Univeristy
+  - Currently working on breaking into the web development space 
+  - Currently learning React, Node.js, and Haskell. 
 
 Projects I am currently working on: 
-Prototypr - A website to faciliate interaction and business between Machinists and people in want of their services. 
-Six Degrees of the Gorillaz - a website that will show the shortest collaboration path between the Gorillaz (my favorite artist) band and any other artist on spotify.
+evanstegall.com - Trying to become proficient in Frontend development, with a personal portfolio as my overarching motivation. 
+WorldleSolver - Currently testing some different algorithms for solving the popular worlde game, will eventually create a website to show off the result. 
+StutterBot - Trying to use HMMs and some ML libraries in Python to see if I can make a computer detect stutters from a given input text. 
 
 <!---
 EvanSeven007/EvanSeven007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
