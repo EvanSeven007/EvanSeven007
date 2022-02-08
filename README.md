@@ -2,7 +2,7 @@
 
 Currently pursuing a major in Computer Science at Rice Univeristy
   - Currently working on breaking into the web development space 
-  - Currently learning React, Node.js, and Haskell. 
+  - Currently learning React, Node.js, the how and why of web dev. 
 
 Projects I am currently working on: 
 - evanstegall.com - Trying to become proficient in Frontend development, with a personal portfolio as my overarching motivation. 
