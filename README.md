@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvanSeven007
 
-Currently pursuing a major in Computer Science at Rice Univeristy
+Currently pursuing a major in Computer Science at Rice University
   - Currently working as a SWE intern at Chevron
   - Currently learning React, Node.js, the how and why of web dev
   - Currently learning Rust to both explore the language and systems concepts in general
