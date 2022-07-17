@@ -11,7 +11,7 @@ Projects I am currently working on:
 
 If you ever want to work with me, don't hesistate to reach out! Email is best. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSeven007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSeven007&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 EvanSeven007/EvanSeven007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
