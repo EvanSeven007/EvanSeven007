@@ -2,7 +2,7 @@
 
 Currently pursuing a major in Computer Science at Rice University
   - Spent Summer 2022 as a SWE intern at Chevron
-  - Currently learning React, Node.js, the how and why of web dev
+  - Currently learning and building with RiceApps
   - Currently learning Rust to both explore the language and systems concepts in general
 
 Projects I am currently working on: 
