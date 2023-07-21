@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @EvanSeven007
 
 Currently pursuing a major in Computer Science at Rice University
+  - Spending Summer 2023 as a Backend Intern at IBM
   - Spent Summer 2022 as a SWE intern at Chevron
   - Currently learning and building with RiceApps
-  - Currently learning Rust to both explore the language and systems concepts in general
-
-Projects I am currently working on: 
-- evanstegall.com - Trying to become proficient in Frontend development, with a personal portfolio as my overarching motivation. 
-- ReeseBot - Building a chess engine from scratch in Rust
-
+  - Probably listening to music or on a climbing wall
 If you ever want to work with me, don't hesistate to reach out! Email is best. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSeven007&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
