@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvanSeven007
 
 Currently pursuing a major in Computer Science at Rice University
-  - Spending Summer 2023 as a Backend Intern at IBM
+  - Spent Summer 2023 as a Backend Intern at IBM
   - Spent Summer 2022 as a SWE intern at Chevron
   - Currently learning and building with RiceApps
   - Probably listening to music or on a climbing wall
