@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @EvanSeven007
+- 👋 Hi, I’m Evan
+- 🏧 Software Engineer @ Stripe | 🎓 CS Grad from Rice University
+- Particularly Interested in large distributed systems and old-school AI.
+- Feel free to reach out for collaborations or just a chat about tech!
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSeven007&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
