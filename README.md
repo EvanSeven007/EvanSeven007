@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Evan
 - 🏧 Software Engineer @ Stripe | 🎓 CS Grad from Rice University
-- Particularly Interested in large distributed systems and old-school AI.
 - Feel free to reach out for collaborations or just a chat about tech!
   
 
